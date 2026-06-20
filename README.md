@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kenny 👋
 
-<!--
-**kkrib412/kkrib412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linux Systems Administrator | AI Automation Developer | Full Stack Builder
 
-Here are some ideas to get you started:
+I am a self-taught developer and technology professional with 15+ years of experience in Linux systems administration, computer diagnostics, automation, and complex troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is building:
+- 🤖 AI Agents & Automation Workflows
+- 🧠 Local LLM Systems (Ollama, LM Studio)
+- 🐧 Linux Tools & Automation
+- 🌐 Modern Web Applications
+- 📊 Data Dashboards & AI-powered Analytics
+
+## Technologies
+
+Python • Bash • Linux • Docker • APIs • JavaScript • HTML/CSS • Git • AI APIs • LLMs • Automation
+
+## Current Projects
+
+🚀 The AI Forge — Private AI systems for small businesses  
+🤖 AI agents and local assistants  
+📈 AI-powered trading dashboards  
+🌐 Interactive web applications
