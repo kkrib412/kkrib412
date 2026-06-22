@@ -9,7 +9,7 @@ Previously: 15+ years in Linux systems administration and diagnostics at CACI In
 - 📈 [options-flow-tracker](https://github.com/kkrib412/options-flow-tracker) — Real-time options flow scanner using Tradier API. Detects unusual activity, sweep trades, and sentiment shifts.
 - 🛡️ [automation-watchdog](https://github.com/kkrib412/automation-watchdog) — Health monitoring for AI automation workflows (n8n, Make, Zapier). Prevents silent failures before data gets corrupted.
 - 🏗️ [Forge](https://github.com/kkrib412/Forge) — Expo Router marketing app built for a Pittsburgh AI services agency.
-- 🎸 [RiffMind-AI](https://github.com/kkrib412/RiffMind-AI) — AI-powered guitar companion that analyzes live riffs and generates custom backing tracks via Google's Lyria API.
+- 🌐 [portfolio](https://github.com/kkrib412/portfolio) — Personal developer portfolio and project showcase.
 
 ## 🧰 Tech Stack
 
