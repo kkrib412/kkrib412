@@ -1,23 +1,26 @@
-# Hi, I'm Kenny 👋
+# Hi, I'm Kenny Kriberney 👋
 
-## Linux Systems Administrator | AI Automation Developer | Full Stack Builder
+**AI App Developer** based in Pittsburgh, PA. I build real-time trading tools, LLM integrations, and automation infrastructure from the ground up.
 
-I am a self-taught developer and technology professional with 15+ years of experience in Linux systems administration, computer diagnostics, automation, and complex troubleshooting.
+Previously: 15+ years in Linux systems administration and diagnostics at CACI International. Transitioned into AI application development with a builder's mindset — rapid prototyping, API design, and end-to-end delivery.
 
-My current focus is building:
-- 🤖 AI Agents & Automation Workflows
-- 🧠 Local LLM Systems (Ollama, LM Studio)
-- 🐧 Linux Tools & Automation
-- 🌐 Modern Web Applications
-- 📊 Data Dashboards & AI-powered Analytics
+## 🚀 Featured Projects
 
-## Technologies
+- 📈 [options-flow-tracker](https://github.com/kkrib412/options-flow-tracker) — Real-time options flow scanner using Tradier API. Detects unusual activity, sweep trades, and sentiment shifts.
+- 🛡️ [automation-watchdog](https://github.com/kkrib412/automation-watchdog) — Health monitoring for AI automation workflows (n8n, Make, Zapier). Prevents silent failures before data gets corrupted.
+- 🏗️ [Forge](https://github.com/kkrib412/Forge) — Expo Router marketing app built for a Pittsburgh AI services agency.
+- 🎸 [RiffMind-AI](https://github.com/kkrib412/RiffMind-AI) — AI-powered guitar companion that analyzes live riffs and generates custom backing tracks via Google's Lyria API.
 
-Python • Bash • Linux • Docker • APIs • JavaScript • HTML/CSS • Git • AI APIs • LLMs • Automation
+## 🧰 Tech Stack
 
-## Current Projects
+`Python` `TypeScript` `Kotlin` `React` `Express` `Tailwind` `REST APIs` `Linux` `Bash` `Ollama` `OpenRouter` `Git`
 
-🚀 The AI Forge — Private AI systems for small businesses  
-🤖 AI agents and local assistants  
-📈 AI-powered trading dashboards  
-🌐 Interactive web applications
+## 📊 Stats
+
+![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkrib412&show_icons=true&theme=default)
+
+## 💼 Open to Opportunities
+
+I'm actively looking for **AI App Developer**, **Full-Stack Engineer**, and **Solutions Engineer** roles (remote-friendly, US).
+
+📧 kennykriberney@gmail.com
