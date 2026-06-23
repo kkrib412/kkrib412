@@ -1,26 +1,93 @@
-# Hi, I'm Kenny Kriberney 👋
+ Hey, I'm Kenny 👋
 
-**AI App Developer** based in Pittsburgh, PA. I build real-time trading tools, LLM integrations, and automation infrastructure from the ground up.
+    AI App Developer | Trading Systems Builder | Automation Enthusiast
 
-Previously: 15+ years in Linux systems administration and diagnostics at CACI International. Transitioned into AI application development with a builder's mindset — rapid prototyping, API design, and end-to-end delivery.
+    I build full-stack applications that solve real problems: AI automation monitoring, options flow detection, SaaS infrastructure, and developer tooling. Pittsburgh, PA based. Available for hire.
 
-## 🚀 Featured Projects
 
-- 📈 [options-flow-tracker](https://github.com/kkrib412/options-flow-tracker) — Real-time options flow scanner using Tradier API. Detects unusual activity, sweep trades, and sentiment shifts.
-- 🛡️ [automation-watchdog](https://github.com/kkrib412/automation-watchdog) — Health monitoring for AI automation workflows (n8n, Make, Zapier). Prevents silent failures before data gets corrupted.
-- 🏗️ [Forge](https://github.com/kkrib412/Forge) — Expo Router marketing app built for a Pittsburgh AI services agency.
-- 🎸 [riffmind-ai-enhanced](https://github.com/kkrib412/riffmind-ai-enhanced) — AI-powered jam partner that analyzes live guitar riffs and generates coherent, real-time musical accompaniment.
 
-## 🧰 Tech Stack
+    🚀 Featured Projects
 
-`Python` `TypeScript` `Kotlin` `React` `Express` `Tailwind` `REST APIs` `Linux` `Bash` `Ollama` `OpenRouter` `Git`
+    Dev-Portfolio — Interactive Portfolio Builder
+    🌐 Live Demo
 
-## 📊 Stats
+    React 19 + TypeScript full-stack app for showcasing projects and skills.
 
-![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkrib412&show_icons=true&theme=default)
+    - React 19, Vite 6, TypeScript
+    - Express backend + Tailwind CSS
+    - Interactive data visualizations with D3.js
+    - Production-ready, Vercel deployed
 
-## 💼 Open to Opportunities
 
-I'm actively looking for **AI App Developer**, **Full-Stack Engineer**, and **Solutions Engineer** roles (remote-friendly, US).
 
-📧 kennykriberney@gmail.com
+    Automation Watchdog — Workflow Monitoring
+
+    Real-time health monitoring for AI automation workflows (n8n, Make, Zapier). Detects silent failures before they corrupt data.
+
+    - Python + Flask dashboard
+    - Multi-channel alerts (Slack, Discord, email)
+    - Failure detection & anomaly scoring
+    - SQLite backend, lightweight deployment
+
+
+
+    Options Flow Tracker — Trading Intelligence
+
+    Real-time options flow scanner powered by Tradier API. Detects unusual volume, sweeps, and sentiment shifts.
+
+    - Python CLI + web dashboard
+    - 24-ticker watchlist (SPY, QQQ, NVDA, TSLA, etc.)
+    - Live sentiment analysis (bullish/bearish)
+    - Exportable scan results (JSON/CSV)
+
+
+
+    Supabase SaaS Starter — Production Template
+
+    Full-stack SaaS boilerplate. Auth, payments, database, and deployment configured out-of-the-box.
+
+    - Next.js 15 + React 19
+    - Supabase (auth, PostgreSQL, realtime)
+    - Stripe payments integration
+    - Vercel-ready deployment
+
+
+
+    💻 Tech Stack
+
+    Languages: Python, TypeScript, JavaScript, Kotlin
+
+    Frontend: React 19, Vite, Tailwind CSS, D3.js, Motion
+
+    Backend: Node.js, Express, Python, Flask
+
+    Databases: PostgreSQL, SQLite
+
+    Platforms: Supabase, Stripe, Tradier API, Vercel, n8n
+
+    Tools: Git, Docker, Hermes Agent, Ollama, LM Studio
+
+
+
+    🎯 Looking For
+
+    - AI Content Writing roles (prompting, LLM integration, automation)
+    - Full-stack development (React + Node/Python)
+    - Trading/Finance tools development
+    - Automation infrastructure (n8n, Make, Zapier)
+    - Hybrid/Remote in Pittsburgh, PA
+
+
+
+    📫 Connect
+
+    - LinkedIn: linkedin.com/in/kennyk412
+    - Email: kennykriberney@gmail.com
+    - Phone: (412) 499-4132
+
+
+
+    Always building. Always shipping. Let's work together.
+
+
+  
