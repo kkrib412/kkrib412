@@ -1,93 +1,56 @@
- Hey, I'm Kenny 👋
+# Hey, I'm Kenny 👋
 
-    AI App Developer | Trading Systems Builder | Automation Enthusiast
+**AI App Developer | Python · TypeScript · Kotlin**
 
-    I build full-stack applications that solve real problems: AI automation monitoring, options flow detection, SaaS infrastructure, and developer tooling. Pittsburgh, PA based. Available for hire.
+I build full-stack AI applications: mobile apps with voice/music generation, real-time trading tools, and automation monitoring systems. Self-taught developer transitioning from security ops. Pittsburgh, PA. **Available for hire.**
 
+---
 
+## 🚀 Featured Projects
 
-    🚀 Featured Projects
+**🎸 [RiffMind AI](https://github.com/kkrib412/RiffMind-AI)** — AI-powered guitar companion with live riff analysis + backing track generation (Gemini & Lyria APIs, Kotlin)
 
-    Dev-Portfolio — Interactive Portfolio Builder
-    🌐 Live Demo
+**👨‍👩‍👧‍👦 [ECHO](https://github.com/kkrib412/ECHOAPP)** — Family memory preservation with AI voice cloning and recipe digitization (Gemini API, Kotlin)
 
-    React 19 + TypeScript full-stack app for showcasing projects and skills.
+**🔔 [Automation Watchdog](https://github.com/kkrib412/automation-watchdog)** — Real-time monitoring for AI workflows (n8n, Make, Zapier) that detects silent failures
 
-    - React 19, Vite 6, TypeScript
-    - Express backend + Tailwind CSS
-    - Interactive data visualizations with D3.js
-    - Production-ready, Vercel deployed
+**📊 [Options Flow Tracker](https://github.com/kkrib412/options-flow-tracker)** — Live options scanner with sentiment analysis using Tradier API (Python)
 
+**🎙️ [Sales Coach AI](https://github.com/kkrib412/Sales-Coach-AI)** — AI-powered sales call analyzer with real-time pitch feedback (Kotlin)
 
+**🌐 [Portfolio Site](https://kenny-kriberney-portfolio.vercel.app)** — Live portfolio showcasing my journey from trades to AI dev (React, TypeScript)
 
-    Automation Watchdog — Workflow Monitoring
+---
 
-    Real-time health monitoring for AI automation workflows (n8n, Make, Zapier). Detects silent failures before they corrupt data.
+## 💻 Tech Stack
 
-    - Python + Flask dashboard
-    - Multi-channel alerts (Slack, Discord, email)
-    - Failure detection & anomaly scoring
-    - SQLite backend, lightweight deployment
+**Languages:** Python · TypeScript · JavaScript · Kotlin  
+**Frontend:** React 19 · Vite · Tailwind CSS · D3.js  
+**Backend:** Node.js · Express · Python · Flask  
+**AI/Data:** Gemini API · Lyria · Tradier · OpenAI · Ollama  
+**Platforms:** Supabase · Vercel · Android · n8n  
 
+---
 
+## 🎯 What I'm Looking For
 
-    Options Flow Tracker — Trading Intelligence
+AI application development roles where I can build:
+- Mobile apps with LLM/AI integration (voice, music, conversational)
+- Real-time data systems (trading, monitoring, automation)
+- Full-stack web apps (React + Node/Python backends)
 
-    Real-time options flow scanner powered by Tradier API. Detects unusual volume, sweeps, and sentiment shifts.
+**Location:** Pittsburgh, PA (hybrid/remote)  
+**Availability:** Immediate
 
-    - Python CLI + web dashboard
-    - 24-ticker watchlist (SPY, QQQ, NVDA, TSLA, etc.)
-    - Live sentiment analysis (bullish/bearish)
-    - Exportable scan results (JSON/CSV)
+---
 
+## 📫 Let's Connect
 
+**LinkedIn:** [linkedin.com/in/kennyk412](https://linkedin.com/in/kennyk412)  
+**Email:** kennykriberney@gmail.com  
+**Phone:** (412) 499-4132  
+**Portfolio:** [kenny-kriberney-portfolio.vercel.app](https://kenny-kriberney-portfolio.vercel.app)
 
-    Supabase SaaS Starter — Production Template
+---
 
-    Full-stack SaaS boilerplate. Auth, payments, database, and deployment configured out-of-the-box.
-
-    - Next.js 15 + React 19
-    - Supabase (auth, PostgreSQL, realtime)
-    - Stripe payments integration
-    - Vercel-ready deployment
-
-
-
-    💻 Tech Stack
-
-    Languages: Python, TypeScript, JavaScript, Kotlin
-
-    Frontend: React 19, Vite, Tailwind CSS, D3.js, Motion
-
-    Backend: Node.js, Express, Python, Flask
-
-    Databases: PostgreSQL, SQLite
-
-    Platforms: Supabase, Stripe, Tradier API, Vercel, n8n
-
-    Tools: Git, Docker, Hermes Agent, Ollama, LM Studio
-
-
-
-    🎯 Looking For
-
-    - AI Content Writing roles (prompting, LLM integration, automation)
-    - Full-stack development (React + Node/Python)
-    - Trading/Finance tools development
-    - Automation infrastructure (n8n, Make, Zapier)
-    - Hybrid/Remote in Pittsburgh, PA
-
-
-
-    📫 Connect
-
-    - LinkedIn: linkedin.com/in/kennyk412
-    - Email: kennykriberney@gmail.com
-    - Phone: (412) 499-4132
-
-
-
-    Always building. Always shipping. Let's work together.
-
-
-  
+*Building real products that solve real problems. Always shipping.*
