@@ -1,56 +1,68 @@
-# Hey, I'm Kenny 👋
+# 👋 Hey, I'm Kenny Kriberney
 
-**AI App Developer | Python · TypeScript · Kotlin**
+**AI Application Developer** building intelligent automation tools, trading systems, and mobile apps from **Pittsburgh, PA**.
 
-I build full-stack AI applications: mobile apps with voice/music generation, real-time trading tools, and automation monitoring systems. Self-taught developer transitioning from security ops. Pittsburgh, PA. **Available for hire.**
+## 🚀 What I Build
+
+I create practical AI-powered applications that solve real problems:
+
+- 🤖 **AI Automation** — LLM integrations, agent workflows, intelligent scrapers
+- 📊 **Trading & Finance Tools** — Real-time market data, options flow tracking, automated analysis
+- 📱 **Mobile Apps** — Native Android apps with Kotlin, Expo, and AI features
+- 🌐 **Full-Stack Web** — Next.js, React, TypeScript, Supabase, Vercel deployments
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · TypeScript · Kotlin · JavaScript  
+**AI/ML:** OpenAI API · Google Gemini · LangChain · Prompt Engineering  
+**Frontend:** React · Next.js · Tailwind CSS · Expo · React Native  
+**Backend:** Node.js · Supabase · PostgreSQL · REST APIs  
+**Tools:** Git · Docker · n8n · Playwright · Resend
+
+## 💼 Featured Projects
+
+### 🔍 [Business Audit Bot](https://github.com/kkrib412/business-audit-bot)
+AI-powered website audit tool that crawls sites, analyzes SEO/accessibility, and generates branded PDF reports with personalized recommendations.  
+**Tech:** Python · Playwright · OpenAI · ReportLab  
+**[Live Demo](https://kkrib412.github.io/business-audit-bot/)**
+
+### 📧 [Cold Outreach Manager](https://github.com/kkrib412/cold-outreach-manager)
+Full-stack platform for AI-powered email campaigns. Upload CSV prospects, auto-research via web scraping, generate personalized openers, and send via Resend API.  
+**Tech:** Next.js · TypeScript · Supabase · OpenAI · Resend
+
+### 🎸 [RiffMind AI](https://github.com/kkrib412/RiffMind-AI)
+Native Android guitar companion with live riff analysis and AI-generated backing tracks using Google Gemini & Lyria APIs.  
+**Tech:** Kotlin · Jetpack Compose · Gemini API · Audio Processing
+
+### 👨‍👩‍👧‍👦 [Echo App](https://github.com/kkrib412/ECHOAPP)
+Family memory preservation platform featuring AI voice cloning, recipe digitization, and multi-generational storytelling.  
+**Tech:** Kotlin · Android · Gemini API · Voice Synthesis
+
+### 📊 [Options Flow Tracker](https://github.com/kkrib412/options-flow-tracker)
+Real-time scanner for unusual options activity with Tradier API integration and customizable alerts.  
+**Tech:** Python · Tradier API · Real-time Data
+
+### ⚡ [Automation Watchdog](https://github.com/kkrib412/automation-watchdog)
+Health monitoring dashboard for AI automation workflows. Surfaces failures before bad data propagates.  
+**Tech:** Python · n8n · Monitoring · DevOps
+
+## 🎯 Background
+
+**Security Operations → AI Application Development**
+
+Transitioning from Security Ops to building AI-powered applications. Focused on practical tools that demonstrate:
+- Full-stack development (frontend + backend + database)
+- AI integration (OpenAI, Gemini, LangChain)
+- Production deployments (Vercel, GitHub Pages)
+- Real business value (trading, automation, content generation)
+
+## 📫 Get In Touch
+
+- 💼 **Open to:** Full-time, contract, or freelance AI/full-stack roles
+- 📍 **Location:** Pittsburgh, PA (hybrid/remote OK)
+- 🌐 **Portfolio:** [kenny-kriberney.vercel.app](https://dev-portfolio-omega-two.vercel.app)
+- 📧 **Email:** [Available on request]
 
 ---
 
-## 🚀 Featured Projects
-
-**🎸 [RiffMind AI](https://github.com/kkrib412/RiffMind-AI)** — AI-powered guitar companion with live riff analysis + backing track generation (Gemini & Lyria APIs, Kotlin)
-
-**👨‍👩‍👧‍👦 [ECHO](https://github.com/kkrib412/ECHOAPP)** — Family memory preservation with AI voice cloning and recipe digitization (Gemini API, Kotlin)
-
-**🔔 [Automation Watchdog](https://github.com/kkrib412/automation-watchdog)** — Real-time monitoring for AI workflows (n8n, Make, Zapier) that detects silent failures
-
-**📊 [Options Flow Tracker](https://github.com/kkrib412/options-flow-tracker)** — Live options scanner with sentiment analysis using Tradier API (Python)
-
-**🎙️ [Sales Coach AI](https://github.com/kkrib412/Sales-Coach-AI)** — AI-powered sales call analyzer with real-time pitch feedback (Kotlin)
-
-**🌐 [Portfolio Site](https://kenny-kriberney-portfolio.vercel.app)** — Live portfolio showcasing my journey from trades to AI dev (React, TypeScript)
-
----
-
-## 💻 Tech Stack
-
-**Languages:** Python · TypeScript · JavaScript · Kotlin  
-**Frontend:** React 19 · Vite · Tailwind CSS · D3.js  
-**Backend:** Node.js · Express · Python · Flask  
-**AI/Data:** Gemini API · Lyria · Tradier · OpenAI · Ollama  
-**Platforms:** Supabase · Vercel · Android · n8n  
-
----
-
-## 🎯 What I'm Looking For
-
-AI application development roles where I can build:
-- Mobile apps with LLM/AI integration (voice, music, conversational)
-- Real-time data systems (trading, monitoring, automation)
-- Full-stack web apps (React + Node/Python backends)
-
-**Location:** Pittsburgh, PA (hybrid/remote)  
-**Availability:** Immediate
-
----
-
-## 📫 Let's Connect
-
-**LinkedIn:** [linkedin.com/in/kennyk412](https://linkedin.com/in/kennyk412)  
-**Email:** kennykriberney@gmail.com  
-**Phone:** (412) 499-4132  
-**Portfolio:** [kenny-kriberney-portfolio.vercel.app](https://kenny-kriberney-portfolio.vercel.app)
-
----
-
-*Building real products that solve real problems. Always shipping.*
+⭐️ Check out my pinned repos below for live demos and detailed documentation.
