@@ -60,7 +60,7 @@ Transitioning from Security Ops to building AI-powered applications. Focused on 
 
 - 💼 **Open to:** Full-time, contract, or freelance AI/full-stack roles
 - 📍 **Location:** Pittsburgh, PA (hybrid/remote OK)
-- 🌐 **Portfolio:** [kenny-kriberney.vercel.app](https://dev-portfolio-omega-two.vercel.app)
+- 🌐 **Portfolio:** [kenny-kriberney.vercel.app](https://kenny-kriberney-portfolio.vercel.app)
 - 📧 **Email:** [Available on request]
 
 ---
